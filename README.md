@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him/Bhosdiwala
 - ⚡ Fun fact: I am a British
 
+### MY GITHUB LANGS:
+
+[![Top Langs](https://github-readme-stats1.vercel.app/api/top-langs/?username=oliver-right&theme=blue-green)](https://github.com/MainakRepositor/github-readme-stats1)
